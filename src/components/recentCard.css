@@ -1,0 +1,10 @@
+.recentCard {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  margin: 13px 13px 0 13px;
+  color: white;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  padding: 5px;
+}

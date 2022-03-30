@@ -1,0 +1,10 @@
+.sideTabCon {
+  background-color: #d13434;
+  width: 20vw;
+  min-height: 100vh;
+}
+.recentTab {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}

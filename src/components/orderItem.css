@@ -1,0 +1,8 @@
+.orderItemCon {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 5px;
+  border-bottom: 0.5px solid grey;
+}

@@ -1,0 +1,15 @@
+.mainTabCon {
+  min-height: 100vh;
+  background-image: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg");
+  width: 80vw;
+  background-size: cover;
+}
+.mainCon {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12vh;
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+}
